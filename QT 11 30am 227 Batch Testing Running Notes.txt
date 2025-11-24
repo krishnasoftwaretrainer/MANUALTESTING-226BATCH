@@ -1,0 +1,899 @@
+Hi good Morning:
+
+Software Testing Tools:
+----------------------
+1.Software Development:
+Software Developers:
+To convert the client requirements into App.
+
+X:IT 
+
+App:Offline into Online 
+Amazon:App:Interface
+Zoom:
+Teams:App:
+
+FrontEnd + BackEnd == App 
+
+Quality or Not:Test 
+
+Role:STE:
+Responsibility:To test the App.
+
+TESTING:To test the Developers developed app is working according to Client given requirements or not.
+
+1.Quality:Working as per Requirements.
+2.Defect:Not Working as per Requirements.
+
+Difference b/w Excepted and Actuval.
+
+Excepted Result:
+Actuval Result:
+
+Calculator App:+ 20,5
+Excepted:25, 25
+Actuval:25, 15
+
+Compare both results:
+Both are Same:Quality
+Both are not Same:Defect 
+
+1.To identify the Defects.
+2.To Close the identityed Defcets.
+5==5
+
+QA:Goal:To delivery Quality app to Client/Market/EndUsers.
+
+Two Ways:Manual & Automation
+1.Complte App:Only Manual:Yes 
+2.Complte App:Only Automatic:No
+
+Regression Testing:
+
+Manual Testing:To test the app manuvally without using any automation tools. 
+
+STLC:
+RA TP TS TC TE TE DR DRT DC DRO 
+ 
+Positive:
+Negative:Excel or Jira 
+
+100TC:100TC:95P:05F
+
+Pass:Both are Same:Quality
+Fail:Both are not Same:Defect 
+
+Defect Reporting:Jira 
+ReTesting:
+Defect Close:
+
+STLC:RA TP TS TC TE TE DR DRT DC DRO
+
+New:
+==================
+Hi good Morning:
+
+Software Testing:
+---------------
+Role:
+
+Software:Collection/Set of Programs:
+Why:
+When:Manual-->Automation
+	Offline/Physical-->Online 
+	Traffic Signal:Signal Lights:
+Software Developers:
+Software Company's:IT:TCS 
+Software Test Engineers:
+
+Types of Softwares:
+-------------------
+1.Application Softwares:
+Domains:Behaviour of App 
+
+1.Web APP:URL:Link:Browsers
+GC,MFF,ME,IE 
+WhatsUPWeb:
+Cloud:Server:
+Client-Server:Internet
+EndUser/Customers-
+
+2.DeskTop/StandAlone App:
+PC:
+Download & Install & Use:
+Word 
+Java:JDK:
+Eclipse:
+
+3.Mobile/Micro App:
+PlayStore:
+
+4.Enter-Prise App:Web DeskTop Mobile
+GMail:
+SBI:
+HDFC:
+Traffic,Security:
+
+2.Programming Softwares:
+-----------------Functionality/Behaviour
+Java 
+Python
+.net 
+C C++ JS Ruby 
+
+1.To develop different types of APP.
+2.To perform Automation Testing.
+
+3.System Softwares:OS OS 
+
+HardWare:Manual Process
+Environment SetUp:
+Software:Automatiic/Online
+
+Project:Client:Company:Specific
+TCS:Charge:1Lack 2Lack  1.5 1.2 
+100:  120 
+200
+Maintainence:Client
+
+Product:Client-Company:same 
+2Yrs:Market:
+
+MNC:TCS:Client:
+Mid-Level:X:PayRoll
+Start-UP:
+
+Domains:Behaviour of App 
+E-Commerce
+Banking
+SocialMedia
+Insurence
+HealthCare etc..
+
+
+
+
+Session will start within 5 mins....
+
+Application:Interface/Mediator 
+Seller and Customer
+Zoom:Trainer and Student
+DeskTop Web Mobile
+
+X IT Company:
+Client-Server:Req--Process-->Response
+
+Tomorrow problems are today's risk.
+
+
+Testing:
+
+HardWare Testing:
+
+Software Testing:
+
+
+Good Morning all..
+
+Session will start with in few minutes .. 
+
+minutes
+
+mini
+
+Environments:
+-------------
+1.Develop Environment:Software Dev:Unit Testing
+WhiteBox Testing:Errors/Warnings/Exceptions
+Code:Web APP:URL
+Build:
+ 
+2.QA Environment:
+BlackBox Testing:2 Ways:
+1.Manual Testing:
+STLC:RA TP TS TC TE TE DR DST DC DRO 
+
+New Open/Reject Fixed ReTest Close ReOpen
+
+2.Automation Testing:
+
+Smoke Testing:Build Verification:
+--------------------
+Ex:TC:URL:www.facebook.com
+Steps:
+Open any Browser:Chrome
+Enter give URL into URL textbox
+Click on Enter button in KeyBoard
+Excepted:FB Login Page should open 
+Actual:FB Login Page is Opened / As Excepted
+
+Compare both Results:
+Quality:Pass 
+Defect:Fail 
+
+Java Eclipse Selenium WebDriver
+
+Functional Testing:
+Non-Functional Testing:
+
+
+3.Staging/UAT Environment
+4.Live/Production Environment
+
+Excepted vs Actual:Hit[Quality] or Flop[Defect] 
+
+KT: 
+
+2+2=4
+2*2=4
+
+3+3=6
+3*3=9 6 P F Accepect/Reject
+
+Environments:
+-------------
+1.Develop Environment:Software Dev:Unit Testing
+WhiteBox Testing:Errors/Warnings/Exceptions
+Code:Web APP:URL
+Build:
+ 
+2.QA Environment:
+BlackBox Testing:2 Ways:
+1.Manual Testing:
+STLC:RA TP TS TC TE TE DR DST DC DRO 
+
+New Open/Reject Fixed ReTest Close ReOpen
+
+2.Automation Testing:
+
+Smoke Testing:Build Verification:
+--------------------
+Ex:TC:URL:www.facebook.com
+Steps:
+Open any Browser:Chrome
+Enter give URL into URL textbox
+Click on Enter button in KeyBoard
+Excepted:FB Login Page should open 
+Actual:FB Login Page is Opened / As Excepted
+
+Compare both Results:
+Quality:Pass 
+Defect:Fail 
+
+Java Eclipse Selenium WebDriver
+
+Functional Testing:
+To test the functionality of given app.
+UI:GUI:
+Functional:
+Positive:Valid:Next Step 
+Login Page:DashBoard:Pass/Fail 
+TC1:P 
+TC2:P
+TC3:F:
+Own/Peer/Aprove:
+Reject
+Reported == Accepected
+
+Buzilla and Jira 
+
+Negative:Invalid
+Error Message:Pass/Fail 
+
+TC:Pass 
+
+
+Non-Functional Testing:
+------------
+P L L G S DB etc...
+
+3.Staging/Pre-Production/UAT Environment
+-----------------
+UAT:User Accepectence Testing
+Alpha:Company
+EndUser/Customers:
+Ecommerce:R L SP Cart Payment Track LO 
+End-To-End Testing:
+LapTop:Online:App 
+
+Beta:Client/Beta:
+Real:
+
+4.Live/Production Environment:
+----------------
+500
+
+Excepted vs Actual:Hit[Quality] or Flop[Defect] 
+
+KT: 
+
+2+2=4
+2*2=4
+
+3+3=6
+3*3=9 6 P F Accepect/Reject
+
+Methods of Testing:
+------------------
+1.WhiteBox Testing:Unit & Integration
+Requirements Analysis
+BRS-->FRSD 
+DP
+Code:PL:code Level:Errors/Exceptions
+
+New App:
+Enhansments/Modifications/Upgrading:
+Problem-Solving:
+
+Maintainence:
+
+Client:
+
+2.BlackBox Testing:
+
+3.GrayBox Testing:
+
+Levels of Testing:
+--------------
+Dev:
+1.Unit Testing:Developers:CodeLevel
+
+100Req:R LP SP Cart Payment Track LO 
+15Req:Unit1:
+
+Agile:Scrum:
+ 
+2.Integration Testing:Dev & QA 
+R + LP + SP + Cart +  Payment +  Track +  LO = App 
+
+Data Flow:
+Unit-1:Create a new account: Link 
+Unit-2:Login
+Unit-3:DashBoard:N Krishna 
+
+QA 
+3.System Testing:
+App:End-To-End:
+
+4.UAT Testing: 
+Alpha:
+Beta:
+
+==================
+Roles & Responsibilities:
+-----------------
+1.STE
+2.SSTE
+3.TL
+4.TM
+5.ATE/SDET 
+
+Intern:
+Fresher:
+Exp:1,2,3,4,5....
+Senior 
+
+STE/QA:Fresher To 4:10LPA  6:8LPA  
+------
+Manual TE[STLC] or Automation TE:
+1.Requirements Analysis:
+Server:CheckIn and CheckOut:GIT and GitHub
+Client,PM,BA,SA,TM/TL,SSTE,Dev,SM 
+PMP,TP,BRSD,SRSD,FRSD,HLDD,LLDD,Templetes etc..
+KT Sessions:Aproved 
+
+2.Test Planning:TM/TL 
+
+Entry Criteria:Complete RAP 
+3.Identify Test Scenarios:What to Test?
+	Prepare Test Cases:How to Test?
+Exit Criteria:Review and Aproved
+Reporting Person:SSTE,TL,TM 3+ 1+
+
+4.Test Environment SetUp:
+Browsers:Chrome>135,Edge,Firefox
+OS:
+HardWare:
+Tools:
+
+5.Test Excution:
+Build:Release:URL 
+Smoke:Pass 
+UI:
+Functional:
+Re-Test:
+Regression:
+
+All TC:Excuted[100TC:90P 10F]
+Defects Close:
+Regression:No New Defects:[100P]
+Reports:TER,DR,RR,RR  
+
+6.Test Closure/SignOff:
+
+UAT:Alpha,Beta 
+Live/Production:
+
+MeetingsSPM,SRM,RM,DSM,CM,TM etc..
+Reports:DSR,WSR,DDR,RR,RR etc...
+<4,5,6
+
+2.SSTE:Review and Aprovels
+BackUp:TL/TM 
+
+3.TM/TL:RB,KT,Training
+
+4.ATE:Regression-Testing:
+
+TC-->Test Scripts-->Run 
+
+DR/DL 
+DST:Accepect/Reject[Dev]/Fixed etc... 
+RT:QA 
+DC:
+DRO:
+
+RealTime:
+
+SDLC:
+STLC:
+BLC: 
+
+===================
+11-11-2025
+--------
+Error vs Defect vs Bug vs Failure:
+------------------------------
+Error:Analysis:Fix:ReTest:
+Software Developer/Automation Test Engineer
+Code Level/Script Level
+1.Compile Time:Syntax
+2.RunTime:Exceptions 
+
+2.Defect:QA Environment
+Difference or Deviation b/w Excepted and Actuval Result.
+2+3=4 E:5 A:4
+
+3.Bug:Defect to Dev:Reproduce:Dev Env:Accepect/Reject
+
+4.Failure:Live/Production:EndUsers/Customers:
+
+Work Model:WFO,WFH[Remote],Hybrid
+
+Process/Procedure:
+------------------
+SDLC:Life Cycle:Starting to Ending
+----
+1.Requirements Gathering[BA]
+2.Requirements Analysis/FS 
+3.Desiging[SA]
+4.Development[Dev]
+5.Testing[QA]
+6.Delivery[DM/VP]
+7.Maintainence:Warrent
+
+SDLC Models:Agile Model
+------------
+12-11-2025
+-----
+SDLC:Life Cycle:Starting to Ending
+----
+1.Requirements Gathering[BA]:
+------------------------
+Client/Company:
+Business RSD:High Level 
+
+2.Requirements Analysis/FS:
+--------------------
+Senior Level:PM BA SA SDev SQA 
+System RSD:
+Registration:
+
+3.Desiging[SA]:
+-------------
+Graphical:UML 
+HLDD:
+LLDD:
+
+4.Development[Software Dev]:
+-----------------
+Functional RSD:
+Code:Programming:FrontEnd+BackEnd:Functional+DB 
+WhiteBox:Unit Testing
+Build:
+
+5.Testing[QA]:
+------------
+Functional & Non-Functional:Positive & Negative
+Quality App:
+
+6.Delivery/Deployment[DM/VP]:
+Real Customers:FeedBack:Comments:
+
+7.Maintainence:Warrent
+
+SDLC Models:Agile Model 
+---------------
+WaterFall:
+V-V
+Spiral
+Agile:100%
+
+=======================
+13-11-2025
+---------
+SDLC Models:Agile Model 
+---------------
+WaterFall:90%:Step-By-Step:Sequence
+V-V:
+Spiral:
+Agile:90%:Jira 
+
+WaterFall:90%:Step-By-Step:Sequence
+3year:Working:12Months:
+
+Agile Model:Scrum Teams:Scrum Master & PO 
+Iterative and Incremental:
+100Req:1Year
+Sprint1:TimeBox:2 to 4Weeks:Goal 
+20days:10Req:
+G A D D TE D 
+Sprint2:
+15days:15Req:
+G A D D TE D 
+
+Sprint Planning:
+Sprint Review:
+DSM/DSC/SC:
+Retrospective:
+
+V-V:
+---
+
+
+STLC:QA 
+----
+Test Planning:TL/TM:10%:0%
+-------------
+Test Paln
+
+Pre-Testing:No need Build 
+-------------90%
+Test Design:
+PMP,TP,BRSD,SRSD,FRSD,HLDD,LLDD,Templetes
+1.Requirements Analysis
+2.Test Scenarios
+3.Test Cases 
+4.Test Environment
+
+During-Testing:
+---------
+Test Excution:Build
+------------90%
+5.Test Excution[Manual]
+6.Test Result[P/F]
+7.Defect Reporting
+8.Defect Status Tracking
+9.ReTest & Regression
+10.Defect Close/ReOpen
+
+Post-Testing:10%
+Test Closure/SignOff:TL/TM:90%
+TR,DR,RT,RT 
+All TC are Excuted
+All Defects are Closed
+Regression:No new Defects
+
+UAT/Live/Production:
+
+Login Page & Registration Page:
+Identify TS:
+Prepare TC:
+
+Web Elements:TB TA Button Links RB CB DD 
+
+14-11-2025
+=======
+2.Test Scenarios:What to Test?
+3.Test Cases:How to Test?
+
+Login Page and Registration Page:
+
+Excel:Templetes 
+
+TS#01:Validate SwagLabs Login functionality with valid username and valid pass.
+TC#01:
+Pre-Condition:Open Browser and Enter given URL 
+User should be in SwagLabs Login Page 
+Test Steps:
+Enter Valid Username
+Enter Valid Password
+Click on Login
+Obeserve behaviour of App 
+Test Data:
+Valid Username:standard_user
+Valid Password:secret_sauce
+ExceptedResult:App should redirect to Products page/DashBoard
+ActualResult:Update at Excution Time. 
+TestResult:Pass/Fail
+
+=================
+17-11-2025:
+----------
+Login Page and Registration Page:
+
+Excel:Templetes 
+
+TS#01:Validate SwagLabs Login functionality with valid username and valid pass.
+TC#01:
+Pre-Condition:Open Browser and Enter given URL 
+User should be in SwagLabs Login Page 
+Test Steps:
+Enter Valid Username
+Enter Valid Password
+Click on Login
+Obeserve behaviour of App 
+Test Data:
+Valid Username:standard_user
+Valid Password:secret_sauce
+ExceptedResult:App should redirect to Products page/DashBoard
+ActualResult:Update at Excution Time. 
+TestResult:Pass/Fail
+
+Comaptabul with Multiple Browsers or not.
+Cross Browser Testing:
+Chrome
+Edge 
+FireFox
+Opera 
+Safari
+
+Login Page:Positive and Negative:
+VU VP:
+IVU VP 
+VU IVP 
+IVU IVP 
+Registration Page:
+Requirements:
+FirstName:3 to 20 Alphabets:18TC
++:3,4,5,6...20: 18:abc,abcd,abcde..
+Test Data:abc, abcd, abcde... abcde..20
+-:1 2  , 21 22 23...
+a	ab  fmhdskjfdskj21
+
+Characters/Alphabets:A to Z a to z 
+Digits:0 to 9 
+SS:@$@#@%#$^$%^%$&%^&%
+
+Krishna123@gmail.com 
+
+19-11-2025
+---------
+Test Case Design Techniques:
+---------------------------
+1.WhiteBox:
+2.BlackBox:
+1.Equivalence Class Partitioning[ECP]:
+------
+FirstName:3 to 20 Alphabets:18TC
+Valid Partitioning: VP 
+Start Value:3
+End Value:20
+Invalid Partitioning: IVP 
+<Start Value:<3:2
+>End Value:>20: 25
+
+Positive:
+--------
+3:abc 
+20:abcdefghijklmnop20
+15:adfdkjkj15
+Negative:
+------
+1:a
+2:ab 
+21:dgfsdgsd21
+25:ewtetrgdhghyj25
+Enter Digits:545
+SS[$#^#$^]
+Blank 
+
+20-11-2025
+----------
+2.Boundary Value Analysis[BVA]:
+---------------
+FirstName: Alphabets:18TC
+
+MinValue-1	MinValue 	MinValue+1
+	2			3			4
+MaxValue-1 	MaxValue		MaxValue+1
+	19			20				21
+
+
+<StartValue StartValue EndValue >EndValue
+1	<2			2			64		>64   70
+
+	1	2	3			63	64	65
+
+Positive:
+--------
+MinValue:3:abc 
+MinValue+1:4:abcd 
+MaxValue:20:asfkja
+MaxValue-1:19:asjrhgj
+Negative:
+--------
+MinValue-1:2:fv
+MaxValue+1:21:faddssdsd
+
+
+
+
+3.State Transitions testing
+4.Decision Tables
+
+3.Experience-Based Testing Technique:
+
+End-To-End or STLC:6M Requirements Time Budget
+Documentation:50%
+Execution:50%
+OutCome:90 to 100% Quality
+
+Documentation:10%
+Execution:90%
+OutCome:60 to 100% Quality
+
+
+STLC:
+----
+Pre-Testing:
+-----------
+1.Requirements Analysis
+2.Test Planning: TL/TM
+3.Test Desiging:TS TC 
+4.Test Environment:SetUp:Web App 
+Browsers:GC MFF ME Opera Safari
+OS:Windows:11
+S/W:
+H/W:
+DataBase:UN PWD 
+
+Build: App File 
+--------
+URL: .exe .apk
+https://www.saucedemo.com/
+Relese Note:Re1 to Req10 
+UN:standard_user
+PWD:secret_sauce
+Sample Data:
+
+5.Test Excution:
+---------------
+Open aproved test case document, To follow the Test Steps,Use required test data, execute test case, Observe actuval behaviour of app, document in Actuval Result, Compare Excepted and Actuval results, document test results [pass/fail]. If test result is Pass, goto next testcase exection, if test result is Fail report defect to Dev team through JIRA tool and goto next testcase exection,.
+======
+Manual Test Case Execution Process (Rewritten Clearly)
+Open the approved Test Case document.
+Follow the Test Steps mentioned in the test case, without skipping or changing them.
+Use the required Test Data provided in the test case or linked documents.
+Execute the Test Case exactly as described.
+Observe the Actual Behaviour of the application during execution.
+Document the Actual Result in the test case execution sheet or test management tool.
+Compare the Expected Result and Actual Result carefully.
+Record the Test Result:
+PASS – if Actual Result matches Expected Result
+FAIL – if Actual Result does NOT match Expected Result
+If the test result is PASS:
+→ Move to the next test case execution.
+If the test result is FAIL:
+→ Log a defect in JIRA with proper details
+→ Then continue with the next test case.
+
+==========================
+21-11-2025
+---
+5.Test Excution: Manual
+---------------
+Open aproved test case document, To follow the Test Steps,Use required test data, execute test case, Observe actuval behaviour of app, document in Actuval Result, Compare Excepted and Actuval results, document test results [pass/fail]. If test result is Pass, goto next testcase exection, if test result is Fail report defect to Dev team through JIRA tool and goto next testcase exection,.
+=================
+Manual Test Case Execution Process (Rewritten Clearly)
+1.Open the Approved Test Case document.
+2.Follow the Test Steps mentioned in the test case, without skipping or changing them.
+3.Use the required Test Data provided in the test case or linked documents.
+4.Execute the Test Case exactly as described.
+5.Observe the Actual Behaviour of the application during execution.
+6.Document the Actual Result in the test case execution sheet or test management tool.
+7.Compare the Expected Result and Actual Result carefully.
+Record the Test Result:
+PASS – if Actual Result matches Expected Result
+FAIL – if Actual Result does NOT match Expected Result
+If the test result is PASS:
+→ Move to the next test case execution.
+If the test result is FAIL:
+→ Log a defect in JIRA with proper details
+→ Then continue with the next test case.
+
+Pass--Fail:Report:Reject 
+Re-Produce:Self Peer 
+Fail--Pass:Market/Live/Production
+
+10TC:8P:2F  
+Fix:ReTest
+8TC:Regression:Automation:1F
+
+High-Severity
+
+22-11-2025
+-------
+
+50% 50% AI ChatGPT
+
+Login Page:
+--------
+1.SwagLabs:UI+Functional:20TC 
+2.Facebook:EMail+Mobile
+3.Buzilla
+4.OpenCart 
+5.Amazon:EMail+Mobile
+--------------
+200TC:
+
+Test Case:Review:Aprove
+Test Excution:Test Result:P F 
+=======
+24-11-2025
+-------
+Test Excution: Registration Page
+Loan App:
+--------
+Version1 Build1: 
+
+Defect Life Cycle:
+----------------
+Status:
+------
+New Assignee Open ReTest FixVerifed Close
+Reject ReOpen
+
+QA->DevLead[New]
+DevLead->Developer[Assign][Open]
+Developer->QA[Fixed]
+QA[ReTest]
+QA--Developer[Close/FixVerifed/Done]
+
+QA->DevLead[New]
+DevLead->QA[Rejected]
+QA[ReTest]--Close
+
+Duplicate: 
+Differed:
+Wil not Reproduce:
+Need More Info:
+Fix Later 
+
+QA->DevLead[New]
+DevLead->QA[Rejected]
+QA[ReTest]--ReOpen
+
+Developer->QA[Fixed]
+QA[ReTest]
+QA--Developer[Close/FixVerifed/Done]
+
+
+Steps:
+-----
+Step1:Click on Create Button
+Step2:Select your Current Project
+Step3:Select Work type: Bug 
+Step4:Select Status of Defect:NEW
+Step5:Write Summary/Tittle of Defect
+Step6:Write Description[Steps to Reproduce]
+Step7:Select Assignee
+Step8:Select Current Sprint
+Step9:Add Attachment
+Step10:Select Severity
+Step11:Click on Create Button
+Step12:Jira Tool generates Unique DefectID.
+Save this DefectID for future defect tracking purpose
+
+Severity Levels: Critical Major Moderate Minimal
+
