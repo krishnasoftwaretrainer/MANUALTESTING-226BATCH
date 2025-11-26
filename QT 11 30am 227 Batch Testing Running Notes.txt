@@ -897,3 +897,86 @@ Save this DefectID for future defect tracking purpose
 
 Severity Levels: Critical Major Moderate Minimal
 
+
+Jira and Buzilla:
+-----------------
+SDLC:RG RS Design Development Testing Deployment
+
+Agile Model:
+----------
+Iterative and Incremental Model:
+100Req:
+-----
+Product BackLogs:100Req
+Sprint BackLogs:
+
+Scrum FrameWork:
+Sprint:Time Box:1 to 4Weeks
+
+Sprint1:4Weeks:20days:160hrs
+Sprint1 BackLogs:18Req   
+Sprint1 Goal:Development Testing Delivery
+
+When to Start Sprint1:25-11-2025
+End Sprint1:14-12-2025
+
+Scrum Master:Driver of Scrum FrameWork
+Product Owner:Project Manager
+BA 
+Dev Team
+QA Team
+
+Sprint Planning Meeting:First Meeting
+BA Dev QA PM SA 
+Dev:5 Responsibilities:20
+QA:5 Responsibilities
+Efforts:Story Points:0 1 3 5 7
+1P=1hr 1P=3hrs	1P=5hrs 
+Analysis:24hrs:8P 5P
+
+Dev:18Req  20Req 
+QA:20Req  18Req
+
+Road Blocks:Problems 
+
+Daily Stand-UP Meeting/ Scrum Call:
+1.YesterDay 
+2.Today
+3.Tomorrow
+15Min  Fixed Time Place 
+Work Status:
+
+Sprint Retrospective Meeting:
+-------------------FeedBack
+Good Bad Need Change
+
+Sprint2:
+
+Product BackLogs
+Sprint BackLogs
+Product Owner
+Scrum Master
+Scrum Team 
+Dev Team
+QA Team 
+Sprint
+Scrum
+Story Points
+Road Blocks
+Daily Stand-UP Meeting/ Scrum Call
+Work Status
+Sprint Retrospective Meeting
+Sprint Review
+EPICS:Core Java 
+User Stories:20 I F Dff D F 
+Task 
+Sub Tasks 
+Features
+
+4Days:6hrs:Introduction of Java 
+
+
+
+Jira Tool:
+Project Management
+Defect Management
