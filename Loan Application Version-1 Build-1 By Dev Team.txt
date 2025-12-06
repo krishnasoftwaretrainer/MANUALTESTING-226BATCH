@@ -1,0 +1,21 @@
+Loan Application:
+-----------------
+Version1:Build1: By Dev Lead: Krishna 
+
+Requirements[Feature]: Loan Application Submit Button
+
+URL:  https://krishnasoftwaretrainer.github.io/LoanAppBuild1/	
+
+Note: Dear QA Team,
+Released Version1 and Build1 for Loan Application[Developed Submit Button Requirements]. 
+Please Test and any Defects found Report ASAP. Report Defects through Jira Tool only.
+For any Quires regarding: Contact: Krishna[DL]
+
+Smoke 
+UI 
+Functionality
+
+Build-1 Onwards:
+Re-Testing 
+Regression Testing
+
