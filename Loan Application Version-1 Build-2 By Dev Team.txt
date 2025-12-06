@@ -1,0 +1,14 @@
+Loan Application:
+-----------------
+Version1 and Build2:
+
+Build Goal: Only Defects Fixing.
+
+URL: https://krishnasoftwaretrainer.github.io/LoanAppBuild2-/
+
+Note: Dear QA Team,
+Released Version1 and Build2 for Loan Application[Defects are Fixed]. 
+Please Re-Test and any Defects found Report ASAP. Report Defects through Jira Tool.
+Perform Regression Testing also for any Defects in Passed Test Cases.
+For any Queries regarding: 
+Contact: Krishna[DL]
